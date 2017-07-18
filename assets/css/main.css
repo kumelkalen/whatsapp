@@ -1,0 +1,81 @@
+*{
+	font-family: 'Roboto';
+}
+.row{
+	margin-bottom: 0;
+}
+/*Fondo*/
+.header{
+	height: 100px;
+}
+.espacio{
+	height: 600px;
+}
+/* Pantalla whatsapp*/
+.avatar{
+	height: 30px;
+	width: 30px;
+	margin-top: 10px;
+}
+.base{
+	position: absolute;
+}
+.top-whatsapp{
+	top: 15px;
+	height: 50px;
+	box-shadow: 1px 0px 2px 0 #d4d4d4;
+	border-left: 1px solid #d4d4d4;
+	border-bottom: 1px solid #d4d4d4;
+}
+.top-whatsapp2{
+	right: 107px;
+	top: 15px;
+	height: 50px;
+	border-left: 1px solid #d4d4d4;
+	border-bottom: 1px solid #d4d4d4;
+}
+#buscador{
+	border: #d4d4d4 1px solid;
+	border-radius: 3px;
+	height: 25px;
+	font-size: 12px;
+	margin: 10px 0 10px 0;
+	font-weight: 600;
+}
+/* Parte Inferior*/
+.bottom-whatsapp{
+	height: 500px;
+	top: 65px;
+	border-left: 1px solid #d4d4d4;
+	box-shadow: 0px 2px 2px 0 #d4d4d4;
+}
+.bottom-whatsapp2{
+	height: 450px;
+	top: 65px;
+	border-right: 1px solid #d4d4d4;
+	border-left: 1px solid #d4d4d4;
+	background-image: url("../docs/image/chat-panel-bg.png");
+}
+.row .col.m7{
+	margin-left: 429px;
+}
+.bottom-whatsapp3{
+	height: 50px;
+	bottom: 113px;
+	border-right: 1px solid #d4d4d4;
+	border-left: 1px solid #d4d4d4;
+	box-shadow: 0px 2px 2px 0 #d4d4d4;
+}
+#ingresar{
+	border-radius: 3px;
+	height: 25px;
+	width: 80%;
+	font-size: 12px;
+	margin: 10px 0 10px 0;
+	font-weight: 600;
+}
+.fa{
+	color:grey;
+}
+
+
